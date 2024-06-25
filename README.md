@@ -39,5 +39,8 @@ git clone https://github.com/Sanket-HP/Roman-Numeral-Converter-FreeCodeCamp-Java
 ## Credits
 This project is based on the requirements specified in a user story provided by FreeCodeCamp.
 
+## Author
+Sanket Sarjerao More-Patil
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
