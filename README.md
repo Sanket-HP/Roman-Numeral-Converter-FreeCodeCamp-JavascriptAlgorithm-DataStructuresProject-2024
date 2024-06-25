@@ -33,7 +33,7 @@ You can try out the Roman Numeral Converter live at Roman Numeral Converter Demo
 
 Installation
 1. Clone the repository:
-git clone https://github.com/your-username/roman-numeral-converter.git
+git clone https://github.com/Sanket-HP/Roman-Numeral-Converter-FreeCodeCamp-JavascriptAlgorithm-DataStructuresProject-2024.git
 2. Open index.html in your web browser.
 
 ## Credits
